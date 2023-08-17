@@ -2,9 +2,7 @@
 html, body {
   height: 120%;
   margin: 20px;
-  margin-left: 6em;
-  margin-right: 6em;
-  background-color: #e9c48d;
+  background-color: #dab680;
 }
 
 hr{
@@ -23,6 +21,23 @@ h1 {
   width: 80%;
   padding-left: 10%;
   padding-top: 5%;
+}
+
+.h22 {
+  color: rgb(0, 0, 0);
+  font-family: Jost;
+  font-size: 24px;
+  font-weight: 900;
+  width: 80%;
+  padding-left: 10%;
+  padding-top: 5%;
+}
+
+.h23 {
+  color: rgb(0, 0, 0);
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 600;
 }
 
 h2 {
